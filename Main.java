@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         //# addBeverage
 
-        /*vendingMachine = new VendingMachine();
+        vendingMachine = new VendingMachine();
 
         vendingMachine.addBeverage("Suv", 1000);
         vendingMachine.addBeverage("Gazlangan Suv", 1200);
@@ -13,10 +13,10 @@ public class Main {
         vendingMachine.addBeverage("Pepsi", 2500);
         vendingMachine.addBeverage("Fanta", 3300);
         vendingMachine.addBeverage("Sharbat", 1500);
-        vendingMachine.addBeverage("Ayron", 1100);*/
+        vendingMachine.addBeverage("Ayron", 1100);
 
         //
-        //System.out.println("getPriceTest():   VendingMachine.getPrice()  " + getPriceTest());
+        System.out.println("getPriceTest():   VendingMachine.getPrice()  " + getPriceTest());
 
         //# rechargeCard
         /*vendingMachine.rechargeCard(1, 2000);
