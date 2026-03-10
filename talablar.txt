@@ -62,7 +62,7 @@
       sell() metodi ichimlikning nomi va karta IDsi orqali sotadi.
       Metod ichimlik sotilgan qator raqamini qaytaradi.
 
-      Agar karta ID yokiy ichimlik nomi hato bo'lsa -1 return qiling.
+      Agar karta ID yoki ichimlik nomi hato bo'lsa -1 return qiling.
       Agar ichimlik  qolmagan bo'lsa -1 return qiling.
       Agar kartada yetarli pul miqdori bo'lmasa -1 return qiling.
 

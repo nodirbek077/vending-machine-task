@@ -19,25 +19,25 @@ public class Main {
         System.out.println("getPriceTest():   VendingMachine.getPrice()  " + getPriceTest());
 
         //# rechargeCard
-        /*vendingMachine.rechargeCard(1, 2000);
+        vendingMachine.rechargeCard(1, 2000);
         vendingMachine.rechargeCard(2, 15000);
         vendingMachine.rechargeCard(3, 25000);
-        vendingMachine.rechargeCard(1, 2500);*/
+        vendingMachine.rechargeCard(1, 2500);
 
         //
-        //System.out.println("getCreditTest():   VendingMachine.getCredit()  " + getCreditTest());
+        System.out.println("getCreditTest():   VendingMachine.getCredit()  " + getCreditTest());
 
-        /*vendingMachine.refillRow(1, "Suv", 5);
+        vendingMachine.refillRow(1, "Suv", 5);
         vendingMachine.refillRow(2, "Coca Cola", 10);
         vendingMachine.refillRow(3, "Sharbat", 2);
-        vendingMachine.refillRow(4, "Suv", 8);*/
+        vendingMachine.refillRow(4, "Suv", 8);
 
 
         //
-        // System.out.println("availableCansTest():   VendingMachine.availableCans()  " + availableCansTest());
+         System.out.println("availableCansTest():   VendingMachine.availableCans()  " + availableCansTest());
 
         //
-        //System.out.println("sellTest():   VendingMachine.sell()  " + sellTest());
+        System.out.println("sellTest():   VendingMachine.sell()  " + sellTest());
 
     }
 
